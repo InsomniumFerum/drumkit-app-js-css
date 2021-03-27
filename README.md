@@ -73,6 +73,13 @@ This section should list any major frameworks that you built your project using.
 * [HTML](https://html.com/)
 * [CSS](https://css.com/)
 
+<!-- CONTACT -->
+## Contact
+
+Furkan Çat - [@your_twitter](https://twitter.com/FurkanCat) - furi544@gmail.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/InsomniumFerum/Drum-Kit)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
