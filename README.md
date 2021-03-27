@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![DrumKit Screen Shot][product-screenshot]](images/project.png)
+<img src="images/project.png" width="400">
 
 #### JavaScript Used
 
