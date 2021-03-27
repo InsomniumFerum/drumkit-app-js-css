@@ -76,7 +76,7 @@ This section should list any major frameworks that you built your project using.
 <!-- CONTACT -->
 ## Contact
 
-Furkan Çat - [@your_twitter](https://twitter.com/FurkanCat) - furi544@gmail.com
+Furkan Çat - [@FurkanCat](https://twitter.com/FurkanCat) - furi544@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/InsomniumFerum/Drum-Kit)
 
