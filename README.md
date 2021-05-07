@@ -40,8 +40,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Press the buttons to play drup kit.
 
-<img src="images/project.png" width="800">
+[Project-Demo](https://drumkit-app-js.netlify.app/)
+
+<img src="images/project.png" width="600">
 
 #### JavaScript Used
 
